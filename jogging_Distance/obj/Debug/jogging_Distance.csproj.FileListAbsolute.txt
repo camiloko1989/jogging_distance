@@ -1,0 +1,8 @@
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_3\Jogging_Distance\jogging_Distance\jogging_Distance\bin\Debug\jogging_Distance.exe.config
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_3\Jogging_Distance\jogging_Distance\jogging_Distance\bin\Debug\jogging_Distance.exe
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_3\Jogging_Distance\jogging_Distance\jogging_Distance\bin\Debug\jogging_Distance.pdb
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_3\Jogging_Distance\jogging_Distance\jogging_Distance\obj\Debug\jogging_Distance.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_3\Jogging_Distance\jogging_Distance\jogging_Distance\obj\Debug\jogging_Distance.csproj.SuggestedBindingRedirects.cache
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_3\Jogging_Distance\jogging_Distance\jogging_Distance\obj\Debug\jogging_Distance.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_3\Jogging_Distance\jogging_Distance\jogging_Distance\obj\Debug\jogging_Distance.exe
+C:\Users\camil\OneDrive\Documents\Douglas\OneDrive - Douglas College\Intro to Programming\Week_3\Jogging_Distance\jogging_Distance\jogging_Distance\obj\Debug\jogging_Distance.pdb

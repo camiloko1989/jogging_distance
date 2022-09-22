@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogging_Distance", "jogging_Distance\jogging_Distance.csproj", "{95587246-755F-4D2B-8835-1ACE7B999AB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95587246-755F-4D2B-8835-1ACE7B999AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95587246-755F-4D2B-8835-1ACE7B999AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95587246-755F-4D2B-8835-1ACE7B999AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95587246-755F-4D2B-8835-1ACE7B999AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4403C28D-72A5-4E02-8212-ACBB6B85BE26}
+	EndGlobalSection
+EndGlobal
