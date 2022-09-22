@@ -43,8 +43,10 @@ namespace jogging_Distance
             double averageSteps = 0;
             int hourInMin = 0;
             int totalTimeRun = 0;
-            double stepsInMiles = 5820 / 2.5;
+            double FOOTSINSTEP = 2.5;
+            double FOOTINMILES = 5280;
             double stepsRun = 0;
+            double footsRun = 0;
             double milesRun = 0;
 
             //1. Ask steps in first minute
@@ -64,7 +66,8 @@ namespace jogging_Distance
 
             //7. Calculate distance run in miles
             stepsRun = totalTimeRun * averageSteps;
-            milesRun = stepsRun / stepsInMiles;
+            footsRun = stepsRun * FOOTSINSTEP;
+            milesRun = footsRun / FOOTINMILES;
 
             WriteLine("You run " + stepsFirstMin + " steps in the first minute");
             WriteLine("You run " + stepsLastMin + " steps in the last minute");
